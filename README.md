@@ -1,5 +1,5 @@
 
-# 🎨 AI Air Canvas
+#  AI Air Canvas
 ### Real-Time Hand Gesture Drawing Using Computer Vision
 
 An interactive computer vision application that allows users to draw in the air using hand gestures captured through a webcam.
@@ -10,7 +10,7 @@ Instead of using a mouse or touchscreen, users can interact with a digital canva
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Real-Time Hand Tracking:** Detects and tracks hand landmarks using MediaPipe.
 - **Gesture-Based Drawing:** Draw on a virtual canvas using hand movements.
@@ -23,7 +23,7 @@ Instead of using a mouse or touchscreen, users can interact with a digital canva
 
 ---
 
-## 📸 Project Demo
+##  Project Demo
 
 The screenshot below shows the application running with live webcam input and gesture-controlled drawing.
 
@@ -33,7 +33,7 @@ The project demonstrates real-time video processing, hand landmark detection, an
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -44,7 +44,7 @@ The project demonstrates real-time video processing, hand landmark detection, an
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 The application follows a computer vision processing pipeline:
 
@@ -67,7 +67,7 @@ Users can save their artwork as an image file.
 
 ---
 
-## ⌨️ Keyboard Controls
+##  Keyboard Controls
 
 | Key | Action |
 |-----|--------|
@@ -80,7 +80,7 @@ Users can save their artwork as an image file.
 
 ---
 
-## 🚀 Installation and Setup
+##  Installation and Setup
 
 ### Prerequisites
 
@@ -131,7 +131,7 @@ Allow camera access if prompted.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ai-air-canvas/
